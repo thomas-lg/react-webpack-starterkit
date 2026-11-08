@@ -82,7 +82,7 @@ This section concerned VS Code
 
 ## Author
 
-Thomas Le Gougaud [@thomas-lg](https://github.com/thomas-lg)
+[@thomas-lg](https://github.com/thomas-lg)
 
 ## TODO
 
